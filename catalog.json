@@ -21,12 +21,12 @@
   },
   {
     "id": "prod_mrcj38wy",
-    "servicio": "",
+    "servicio": "Spotify",
     "plan": "",
-    "imagen": "",
-    "precio": 0,
+    "imagen": "https://i.postimg.cc/VsqQRG7w/image.png",
+    "precio": 5,
     "duracion": "mes",
-    "descripcion": "",
+    "descripcion": "1",
     "stock": 1
   }
 ]
