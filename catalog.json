@@ -11,12 +11,12 @@
   },
   {
     "id": "prod_mrcih7ge",
-    "servicio": "",
-    "plan": "",
-    "imagen": "",
-    "precio": 0,
+    "servicio": "Disney +",
+    "plan": "Premium",
+    "imagen": "https://i.postimg.cc/d1QdxS2c/image.png",
+    "precio": 2.5,
     "duracion": "mes",
-    "descripcion": "",
+    "descripcion": "Cuenta Completa",
     "stock": 0
   },
   {
