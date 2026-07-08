@@ -18,5 +18,15 @@
     "duracion": "mes",
     "descripcion": "",
     "stock": 0
+  },
+  {
+    "id": "prod_mrcj38wy",
+    "servicio": "",
+    "plan": "",
+    "imagen": "",
+    "precio": 0,
+    "duracion": "mes",
+    "descripcion": "",
+    "stock": 1
   }
 ]
