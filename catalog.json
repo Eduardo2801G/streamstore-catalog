@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "prod_mrbnyc3m",
+    "servicio": "Netflix",
+    "plan": "Premium",
+    "precio": 5,
+    "duracion": "mes",
+    "descripcion": "1",
+    "stock": 0
+  }
+]
