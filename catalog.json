@@ -31,12 +31,12 @@
   },
   {
     "id": "prod_mrckii3a",
-    "servicio": "",
-    "plan": "",
-    "imagen": "",
-    "precio": 0,
+    "servicio": "Hbo Mx",
+    "plan": "Premium",
+    "imagen": "https://cdn.simpleicons.org/hbomax",
+    "precio": 3,
     "duracion": "mes",
-    "descripcion": "",
+    "descripcion": "1 pantalla",
     "stock": 1
   }
 ]
