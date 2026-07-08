@@ -28,5 +28,15 @@
     "duracion": "mes",
     "descripcion": "1 cuenta",
     "stock": 1
+  },
+  {
+    "id": "prod_mrckii3a",
+    "servicio": "",
+    "plan": "",
+    "imagen": "",
+    "precio": 0,
+    "duracion": "mes",
+    "descripcion": "",
+    "stock": 1
   }
 ]
