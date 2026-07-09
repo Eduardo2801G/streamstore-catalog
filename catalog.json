@@ -28,7 +28,8 @@
     "precio": 5,
     "duracion": "mes",
     "descripcion": "1 cuenta",
-    "stock": 1
+    "stock": 2,
+    "detalles": ""
   },
   {
     "id": "prod_mrckii3a",
