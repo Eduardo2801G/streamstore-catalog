@@ -42,11 +42,12 @@
   {
     "id": "prod_mrcks6ik",
     "servicio": "Paramount +",
-    "plan": "Preium",
+    "plan": "Preimum",
     "imagen": "https://cdn.simpleicons.org/paramount+",
     "precio": 5,
     "duracion": "mes",
     "descripcion": "4 pantallas",
-    "stock": 1
+    "stock": 1,
+    "detalles": ""
   }
 ]
