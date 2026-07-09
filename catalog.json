@@ -18,7 +18,8 @@
     "precio": 10,
     "duracion": "mes",
     "descripcion": "Cuenta Completa",
-    "stock": 0
+    "stock": 1,
+    "detalles": "• Premium • 4K UHD • 4 pantallas • Descargas • 1 mes"
   },
   {
     "id": "prod_mrcj38wy",
