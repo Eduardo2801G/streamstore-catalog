@@ -7,7 +7,8 @@
     "duracion": "mes",
     "descripcion": "1 perfil",
     "stock": 1,
-    "imagen": "https://cdn.simpleicons.org/netflix"
+    "imagen": "https://cdn.simpleicons.org/netflix",
+    "detalles": ""
   },
   {
     "id": "prod_mrcih7ge",
